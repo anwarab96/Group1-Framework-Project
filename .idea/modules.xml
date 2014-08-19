@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChaseBank/ChaseBank.iml" filepath="$PROJECT_DIR$/ChaseBank/ChaseBank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cnn/Cnn.iml" filepath="$PROJECT_DIR$/Cnn/Cnn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cnn/Cnn.iml" filepath="$PROJECT_DIR$/Cnn/Cnn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facebook/Facebook.iml" filepath="$PROJECT_DIR$/Facebook/Facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Google/Google.iml" filepath="$PROJECT_DIR$/Google/Google.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Group1-Framework-Project.iml" filepath="$PROJECT_DIR$/Group1-Framework-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyCnn/MyCnn.iml" filepath="$PROJECT_DIR$/MyCnn/MyCnn.iml" />
+    </modules>
+  </component>
+</project>
+

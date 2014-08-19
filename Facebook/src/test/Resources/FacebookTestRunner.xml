@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Facebook Social App"  parallel="tests">
+    <parameter name="url" value="http://www.facebook.com"/>
+    <test name="Facebook Features">
+        <classes>
+            <class name="home.Facebookhome"/>
+
+
+        </classes>
+
+
+    </test>
+
+   </suite>
+
+
